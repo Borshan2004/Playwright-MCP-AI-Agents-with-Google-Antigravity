@@ -298,5 +298,3 @@ npx playwright install chromium
 ```
 
 That is all! Open the project folder in Antigravity, and all tools, rules, skills, and MCP automation work out-of-the-box.
-#   P l a y w r i g h t - M C P - A I - A g e n t s - w i t h - G o o g l e - A n t i g r a v i t y  
- 
